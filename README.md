@@ -6,7 +6,7 @@
  </kbd>  
 </h2>
 
-<h3 align="center">Student fullstack developer from Argentina</h3>
+<h3 align="center">Student Fullstack Developer from Argentina</h3>
 
 - 🔭 I’m currently working on **One Next Education**
 
