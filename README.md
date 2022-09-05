@@ -33,6 +33,7 @@
 <p align="left"> 
  <img  src="https://github.com/rafael-romero/rafael-romero/blob/main/insignia-encriptador-alura.png" alt="insignia de alura encriptador de texto" width="40" height="40"/>
  <img  src="https://github.com/rafael-romero/rafael-romero/blob/main/insignia-ahorcado-alura.png" alt="insignia de alura juego ahorcado" width="60" height="40"/>
+ <img src="https://user-images.githubusercontent.com/95598903/188362243-b27076e8-174d-4229-87a3-9db185ff98dc.png" alt="insignia de alura portfolio" width="60" height="40"/>
 </p>
 
 
