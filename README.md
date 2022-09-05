@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Romero</h1>
 
-<h2 align="center">
- <kbd>
-   <img src="https://raw.githubusercontent.com/rafael-romero/rafael-romero/master/foto-personal.jpeg" width=200 style="border-radius:50%">
- </kbd>  
-</h2>
 
 <h3 align="center">Student Fullstack Developer from Argentina</h3>
 
